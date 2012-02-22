@@ -31,6 +31,7 @@ group :test do
     gem 'capybara'
     gem 'database_cleaner'
     gem 'devise', '~> 1.4.3'
+    gem 'email_spec'
 end 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
