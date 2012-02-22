@@ -30,6 +30,7 @@ group :test do
     gem 'cucumber-rails', '=1.0.6'
     gem 'capybara'
     gem 'database_cleaner'
+    gem 'devise', '~> 1.4.3'
 end 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
